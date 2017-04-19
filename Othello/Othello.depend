@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1492544807 source:e:\othello\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<time.h>
+	<string>
+	"Joueur.h"
+	"Case.h"
+	"Plateau.h"
+	"Curseur.h"
+
+1492542523 e:\othello\joueur.h
+	<string>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	"Move.hpp"
+	<vector>
+
+1492440609 e:\othello\move.hpp
+	<stdio.h>
+	"Case.h"
+
+1492119662 e:\othello\case.h
+	"enums.h"
+
+1492350215 e:\othello\enums.h
+
+1492535097 e:\othello\plateau.h
+	<vector>
+	"Case.h"
+	"Move.hpp"
+
+1492119563 e:\othello\curseur.h
+
+1491932359 source:e:\othello\case.cpp
+	"Case.h"
+
+1491935195 source:e:\othello\curseur.cpp
+	"Curseur.h"
+
+1491930068 source:e:\othello\joueur.cpp
+	"Joueur.h"
+
+1492422860 source:e:\othello\move.cpp
+	"Move.hpp"
+
+1492544592 source:e:\othello\plateau.cpp
+	"Plateau.h"
+	"Case.h"
+	<iostream>
+
+1492555308 source:c:\users\hp\desktop\othello\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<time.h>
+	<string>
+	"Joueur.h"
+	"Case.h"
+	"Plateau.h"
+	"Curseur.h"
+	"console.h"
+
+1492546124 c:\users\hp\desktop\othello\joueur.h
+	<string>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	"Move.hpp"
+	<vector>
+
+1492444210 c:\users\hp\desktop\othello\move.hpp
+	<stdio.h>
+	"Case.h"
+
+1492123262 c:\users\hp\desktop\othello\case.h
+	"enums.h"
+
+1492353816 c:\users\hp\desktop\othello\enums.h
+
+1492538698 c:\users\hp\desktop\othello\plateau.h
+	<vector>
+	"Case.h"
+	"Move.hpp"
+
+1492123164 c:\users\hp\desktop\othello\curseur.h
+
+1491933666 c:\users\hp\desktop\othello\console.h
+	<iostream>
+
