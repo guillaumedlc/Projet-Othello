@@ -1,0 +1,7 @@
+
+---------Licence-----------------------
+
+source : "projet informatique 3"/Campus
+
+C++ source file : "console.cpp"
+Header file     : "console.h"
